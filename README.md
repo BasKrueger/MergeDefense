@@ -4,15 +4,17 @@
 </p>
 
 Project Merge Defense is a prototype for a tower defense game on Android that I build from scratch using C# and the Unity Engine.
-This side project was created as a way for me to learn more about tool programming, aswell as creating the foundation for a fun tower defense/merge hybrid to potentially continue working on in the future.
+My goal with this project was to learn more about tool programming, aswell as creating the foundation for a fun tower defense/merge hybrid to potentially return working on in the future.
 
 # Gameplay
 https://github.com/BasKrueger/MergeDefense/assets/147401575/a3195c6a-e012-44cb-a07e-b2e2bcf9b35b
 
 The main premise of this Tower Defense game is that you can only buy random turrets and you upgrade them by merging two of the same kind and level together. Carefully managing your limited tiles where you can build and merge your turrets is key to victory.
-Try it out yourself at https://suchti0352.itch.io/project-merge-defense.
 
-# Highlight Levelbuilder
+# How to run
+You can play a build version of the prototype right now in your browser [here](https://suchti0352.itch.io/project-merge-defense).
+
+# Highlight: Levelbuilder
 <p align="center">
     <img src="readme/Levelbuilder.gif" alt="Project Merge Defense Banner"><br>
 </p>
