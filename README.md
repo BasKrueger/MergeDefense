@@ -3,16 +3,16 @@
     <img src="readme/Banner.png" alt="Project Merge Defense Banner"><br>
 </p>
 
-Project Merge Defense is a prototype for a tower defense game on Android that I build from scratch using C# and the Unity Engine.
+"Project Merge Defense" is a prototype for a tower defense game on Android.
 My goal with this project was to learn more about tool programming, aswell as creating the foundation for a fun tower defense/merge hybrid to potentially return working on in the future.
 
 # Gameplay
 https://github.com/BasKrueger/MergeDefense/assets/147401575/a3195c6a-e012-44cb-a07e-b2e2bcf9b35b
 
-The main premise of this Tower Defense game is that you can only buy random turrets and you upgrade them by merging two of the same kind and level together. Carefully managing your limited tiles where you can build and merge your turrets is key to victory.
+The main premise of this Tower Defense game is that you can only buy random turrets and upgrade them by merging two of the same kind and level together. Carefully managing your limited tiles where you can build and merge your turrets is key to victory.
 
 # How to run
-For legal reasons this is a code-only version that won't compile. But you can play a build version of the prototype in your browser [here](https://suchti0352.itch.io/project-merge-defense).
+For legal reasons this is a code-only version that won't compile on its own. But feel free to play the laters build version of the prototype [here](https://suchti0352.itch.io/project-merge-defense) using your Browser.
 
 # Highlight: Levelbuilder
 <p align="center">
@@ -20,10 +20,11 @@ For legal reasons this is a code-only version that won't compile. But you can pl
 </p>
 
 Levels were crafted within the custom Levelbuilder Window.
+
 Features include:
 
 - easy and save way to build level layouts.
-- simple way to design enemy waves. Including the duration, when which enemy type gets spawned and more.
+- simple way to design enemy waves. Including the spawn duration duration, aswell as when which enemy type gets spawned and more.
 - create, save and load levels as simple scriptable objects.
 
 # Acknowledgements
