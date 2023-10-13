@@ -12,7 +12,7 @@ https://github.com/BasKrueger/MergeDefense/assets/147401575/a3195c6a-e012-44cb-a
 The main premise of this Tower Defense game is that you can only buy random turrets and upgrade them by merging two of the same kind and level together. Carefully managing your limited tiles where you can build and merge your turrets is key to victory.
 
 # How to run
-For legal reasons this is a code-only version that won't compile on its own. But feel free to play the laters build version of the prototype [here](https://suchti0352.itch.io/project-merge-defense) using your Browser.
+For legal reasons this is a code-only version that won't compile on its own. But feel free to play the latest build of the prototype [here](https://suchti0352.itch.io/project-merge-defense) using your Browser.
 
 # Highlight: Levelbuilder
 <p align="center">
