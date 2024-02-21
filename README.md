@@ -3,7 +3,7 @@
     <img src="readme/Banner.png" alt="Project Merge Defense Banner"><br>
 </p>
 
-"Project Merge Defense" is a prototype for a tower defense game on Android.
+"Project Merge Defense" is a prototype for a tower defense game on Android that I created <b>between my 2. and 3. Semester</b> at the [S4G School for games](https://www.school4games.net/).
 My goal with this project was to learn more about tool programming, aswell as creating the foundation for a fun tower defense/merge hybrid to potentially return working on in the future.
 
 # Gameplay
@@ -19,7 +19,7 @@ For legal reasons this is a code-only version that won't compile on its own. But
     <img src="readme/Levelbuilder.gif" alt="Project Merge Defense Banner"><br>
 </p>
 
-Levels were crafted within the custom Levelbuilder Window.
+Levels were crafted within the [custom Levelbuilder Window](https://github.com/BasKrueger/MergeDefense/tree/main/Scripts/LevelBuilder/PathBuilder).
 
 Features include:
 
