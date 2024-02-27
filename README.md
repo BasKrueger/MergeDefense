@@ -24,7 +24,7 @@ Levels were crafted within the [custom Levelbuilder Window](https://github.com/B
 Features include:
 
 - easy and save way to build level layouts.
-- simple way to design enemy waves. Including the spawn duration duration, aswell as when which enemy type gets spawned and more.
+- simple way to design enemy waves. Including the spawn duration, aswell as when which enemy type gets spawned and more.
 - create, save and load levels as simple scriptable objects.
 
 # Acknowledgements
